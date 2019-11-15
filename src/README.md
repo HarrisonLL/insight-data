@@ -1,4 +1,3 @@
-This is the directory where your source code would reside
 
 To solve the problem, I wrote four functions to solve this problem.
 
